@@ -3,7 +3,7 @@
 <div align="center">
 <p>
     <a href="https://josebenitez.tech" target="_blank">
-      <img  src="assets/demo.gif"></a>
+      <img  src="assets/demo_cligpt.gif"></a>
 </p>
 </div>
 
